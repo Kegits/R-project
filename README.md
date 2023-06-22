@@ -1,2 +1,2 @@
 # R-project 
-# Modeling Insurance Claim Frequency and Severity using Mixture Distributions
+Modeling Insurance Claim Frequency and Severity using Mixture Distributions
